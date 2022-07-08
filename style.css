@@ -33,4 +33,28 @@ button{
 	border-radius: 5%;
 	border-style: none;
 }
+.item{
+	display: flex;
+	justify-content: center;	
+}
+.item-item{
+	background-color: rgb(103, 123, 153);
+	height: 60px;
+	width: 65px;
+	margin: 10px;
+	text-align: center;
+	line-height: 55px;
+	border-radius: 5px;
+}
+.item-item-two{
+	background-color: #ecbfb9;
+	height: 55px;
+	width: 60px;
+	margin: 10px;
+	text-align: center;
+	line-height: 55px;
+	border: solid;
+	border-radius: 5px;
+	border-color: coral;
+}
 
